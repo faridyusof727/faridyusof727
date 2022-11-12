@@ -16,7 +16,10 @@ Golang enthusiast. Always be a beginner when it comes to learning new technologi
   - Echo
   - Gin
 
-
 ## Life
 
 - [Start-up and Trust Issue](Life/startup-and-trust-issues.md)
+
+## All about Golang
+
+- [Deadlock using WaitGroup and Chan](Go/deadlock-using-waitgroup-and-chan.md)
