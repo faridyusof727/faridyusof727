@@ -29,14 +29,14 @@ telegram: [@faridyusof727](https://t.me/faridyusof727)
 
 ### Junior Software Developer
 
-Infineon Technologies Sdn Bhd*,* Melaka *– 2014-2015*
+Infineon Technologies Sdn Bhd, Melaka – *2014-2015*
 
 *I am responsible to develop the Response Monitoring Dashboard for Camstar (Manufacturing
 Execution System) by using PHP, MySQL and Automate 6 (<https://www.helpsystems.com/products/automate-ultimate>).*
 
 ### Intermediate & Senior Software Developer
 
-Amtis Solution Sdn Bhd*,* Melaka *– 2015-2017*
+Amtis Solution Sdn Bhd, Melaka – *2015-2017*
 
 *I am responsible for developing and leading a team for several web/mobile required by
 Government Sectors. One of them is MySocialStats <https://mysocialstats.stats.gov.my/> developed for the Department Of
@@ -48,7 +48,7 @@ Other contributions:
 
 ### Senior Software Developer
 
-Odekan Technologies PLT*, Cyberjaya Senior Fullstack DeveloperSenior Fullstack Developer– 2017-2019*
+Odekan Technologies PLT, Cyberjaya Senior Fullstack DeveloperSenior Fullstack Developer – *2017-2019*
 
 *I am responsible for developing and leading a team for several web/mobile required by
 Government Sectors. One of them is MyCapstock <http://mycapstock.stats.gov.my/> developed for the Department Of
@@ -67,7 +67,7 @@ Other contributions:
 
 ### Solution Architect
 
-Raudhah Pay Sdn Bhd*, Cyberjaya – 2019-2020*
+Raudhah Pay Sdn Bhd, Cyberjaya – *2019-2020*
 
 *I am responsible as a team lead and solution architect for Raudhah Pay payment gateway.
 Raudhah Pay now has more than 5000 merchants all around Malaysia. For your reference,
@@ -75,7 +75,7 @@ you can surf [https://www.raudhahpay.com](https://www.raudhahpay.com/)*
 
 ### Senior Software Engineer
 
-Easy Crypto*, New Zealand – 2021-current*
+Easy Crypto, New Zealand – *2021-current*
 
 *Implement, enhance and upgrade <https://easycrypto.com> based on stakeholder
 requirements. Train and groom developers to be at their best standards.*
