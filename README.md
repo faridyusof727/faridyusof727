@@ -1,6 +1,6 @@
 # Hi 👋, I'm Farid Yusof
 
-Golang enthusiast. Always be a beginner when it comes to learning new technologies. What to know more? Here’s my
+Golang enthusiast. Always be a beginner when it comes to learning new technologies. What to know more? Here’s my [resume](resume.md).
 
 ## My Skills
 
