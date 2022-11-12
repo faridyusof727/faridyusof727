@@ -7,7 +7,7 @@ Golang enthusiast. Always be a beginner when it comes to learning new technologi
 - PHP
   - Laravel
   - Yii2
-  - Codeignitor
+  - CodeIgniter
 - Node.js
   - NestJS (Typescript)
   - ExpressJS (Typescript/Javascript)
@@ -15,3 +15,8 @@ Golang enthusiast. Always be a beginner when it comes to learning new technologi
 - Go
   - Echo
   - Gin
+
+
+## Life
+
+- [Start-up and Trust Issue](Life/startup-and-trust-issues.md)
