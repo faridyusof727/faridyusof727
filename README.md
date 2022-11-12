@@ -23,3 +23,6 @@ Golang enthusiast. Always be a beginner when it comes to learning new technologi
 ## All about Golang
 
 - [Deadlock using WaitGroup and Chan](Go/deadlock-using-waitgroup-and-chan.md)
+- [Using Singleton In Go](Go/using-singleton-in-go.md)
+- [Chain Link](Go/chain-link.md)
+- [Verifier & Code Challenge (PHP→GO)](Go/verifier-and-code-challenge.md)
