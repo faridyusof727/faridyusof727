@@ -32,25 +32,38 @@ telegram: [@faridyusof727](https://t.me/faridyusof727)
 Infineon Technologies Sdn Bhd*,* Melaka *– 2014-2015*
 
 *I am responsible to develop the Response Monitoring Dashboard for Camstar (Manufacturing
-Execution System) by using PHP, MySQL and Automate 6 (https: //www. helpsystems.
-com/products/automate-ultimate).*
+Execution System) by using PHP, MySQL and Automate 6 (<https://www.helpsystems.com/products/automate-ultimate>).*
 
 ### Intermediate & Senior Software Developer
 
 Amtis Solution Sdn Bhd*,* Melaka *– 2015-2017*
 
 *I am responsible for developing and leading a team for several web/mobile required by
-Government Sectors. One of them is MySocialStats developed for the Department Of
+Government Sectors. One of them is MySocialStats <https://mysocialstats.stats.gov.my/> developed for the Department Of
 Statistics, Malaysia. This system uses PHP Yii2, ElasticSearch and MySQL.*
+
+Other contributions:
+
+- <https://akademia.unimel.edu.my/>
 
 ### Senior Software Developer
 
 Odekan Technologies PLT*, Cyberjaya Senior Fullstack DeveloperSenior Fullstack Developer– 2017-2019*
 
 *I am responsible for developing and leading a team for several web/mobile required by
-Government Sectors. One of them is MyCapstock developed for the Department Of
+Government Sectors. One of them is MyCapstock <http://mycapstock.stats.gov.my/> developed for the Department Of
 Statistics, Malaysia. This system uses PHP Yii2, MongoDB and Redis. We deploy to the
 server using Docker technology.*
+
+Other contributions:
+
+- <https://play.google.com/store/apps/details?id=com.lpsvn.general.lpsvn_general>
+  - Mobile: Flutter
+  - Frontend: Vue3
+  - Backend: Go Echo
+- <https://myspr.spr.gov.my/login>
+  - Exchange Module
+  - Training Module
 
 ### Solution Architect
 
@@ -67,9 +80,15 @@ Easy Crypto*, New Zealand – 2021-current*
 *Implement, enhance and upgrade <https://easycrypto.com> based on stakeholder
 requirements. Train and groom developers to be at their best standards.*
 
-- *Reduce CPU and RAM usage by refactoring code into queue workers*
+- *Taking part in OKR discussion and being able to achieve most of the KRs*
+- *Reduce CPU and RAM usage by refactoring code into workers*
 - *Add a new payment gateway integration*
-- *Supports and facilitates working methods from time to time.*
+- *Supports and facilitates working methods from time to time*
+- *Reduce technical debt by refactoring legacy codes*
+- *Collaborate with cross-department team to develop web beta version*
+  - *Working with design team to finalize ways of working*
+  - *Following Component-Driven Development (Storybook)*
+  - *Scaffolding Initial Code Base Structure*
 
 ---
 
