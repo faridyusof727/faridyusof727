@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋, I'm Farid Yusof
 
-<!--
-**faridyusof727/faridyusof727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Golang enthusiast. Always be a beginner when it comes to learning new technologies. What to know more? Here’s my
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+  - Laravel
+  - Yii2
+  - Codeignitor
+- Node.js
+  - NestJS (Typescript)
+  - ExpressJS (Typescript/Javascript)
+  - Fastify (Typescript/Javascript)
+- Go
+  - Echo
+  - Gin
