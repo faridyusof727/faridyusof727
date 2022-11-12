@@ -82,3 +82,28 @@ func main() {
 ```
 
 And there's another way we can solve this by using WaitGroup. Here's an example:
+
+```go
+func main() {
+    mychan := make(chan string)
+
+    var wg sync.WaitGroup
+    wg.Add(1)
+
+    go func() {
+        text := "My Text"
+        wg.Done() // IMPORTANT: This must write before sending value to the channel
+        mychan <- text
+    }()
+
+    wg.Wait() // We are going to wait until the first routine function to finish
+
+    go func() {
+        text := "My Text 2"
+        mychan <- text
+    }()
+
+    fmt.Println(<-mychan)
+    fmt.Println(<-mychan)
+}
+```
