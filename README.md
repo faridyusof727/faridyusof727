@@ -26,4 +26,7 @@ func main() {
 	fmt.Println("Favorite Programming Languages:", aboutMe.FavouriteProgrammingLanguages)
 }
 ```
-[template.xlsx](https://github.com/faridyusof727/faridyusof727/files/12426171/template.xlsx)
+
+![GitHub stats](https://github-readme-stats-x6s6.vercel.app/api?username=faridyusof727&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats-x6s6.vercel.app/api/top-langs/?username=faridyusof727&hide=dart,css,html)
